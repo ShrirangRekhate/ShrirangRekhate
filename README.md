@@ -83,5 +83,5 @@
 
 ---
 
-📄 **Resume**: [View Resume](https://shrirangrekhate.vercel.app/)
+📄 **Resume**: [View Resume](https://drive.google.com/file/d/1C6EbOwGhiaUA9HCs1cgbowI6gZSdZq2s/view)
 
