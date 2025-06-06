@@ -69,7 +69,7 @@
   <li>🏅 System Design Through Verilog (NPTEL – 86%)</li>
   <li>🏅 Altium Designer Certified – Basic PCB Design</li>
   <li>🏅 Matlab & Simulink Onramp Certified</li>
-  <li>🎖️ Topper in Second Year (CGPA: 9.59)</li>
+  <li>🎖️ Rank 1 in Second Year B.Tech (CGPA: 9.59)</li>
 </ul>
 
 ---
