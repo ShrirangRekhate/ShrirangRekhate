@@ -83,5 +83,5 @@
 
 ---
 
-📄 **Resume**: [View Resume](https://drive.google.com/file/d/1C6EbOwGhiaUA9HCs1cgbowI6gZSdZq2s/view)
+📄 **Resume**: [View Resume](https://drive.google.com/file/d/1Qj71lTvm7KFG-2kk85XowV2JwMXoWTtP/view)
 
