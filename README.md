@@ -67,6 +67,7 @@
 <h3 align="left">Achievements & Certifications:</h3>
 <ul>
   <li>🏅 System Design Through Verilog (NPTEL – 86%)</li>
+  <li>🎖️ Rank 2836 in Gate 2025 in Instrumentation Engineering</li>
   <li>🏅 Altium Designer Certified – Basic PCB Design</li>
   <li>🏅 Matlab & Simulink Onramp Certified</li>
   <li>🎖️ Rank 1 in Second Year B.Tech (CGPA: 9.59)</li>
